@@ -26,10 +26,10 @@ Dashboard Questions
 
 ### Data Preparation 
 
-1. Combined columns from all three sheets into one master table by joining them on the date column via XLOOKUP
+1. Combined columns from all three sheets into one master table by joining them on the date column using the From Table/Range. 
 
 <p align="center">
-  <img src="images\unionviadate.png" alt="CatorDog" width="80%">
+  <img src="images\FromTableRange.png" alt="CatorDog" width="80%">
 </p>
 
 
@@ -39,11 +39,8 @@ Dashboard Questions
 </p>
 
 3. it has been found that there is 0 null values
-<p align="center">
-  <img src="images\features_column_added.png" alt="CatorDog" width="80%">
-</p>
 
 --- 
 
-### DASHBOARD 
+### DASHBOARD Analysis
 
