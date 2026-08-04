@@ -4,6 +4,12 @@ This data analysis project investigates daily sales fluctuations for a [retail s
 By analyzing how weather patterns and customer demographics influence store performance, this project provides actionable insights to help leadership optimize inventory planning, staffing schedules, and promotional campaigns.
 
 --- 
+
+<p align="center">
+  <img src="images\Dashboard.png" alt="CatorDog" width="80%">
+</p>
+
+--- 
 Analysis Ohjectives 
 * Link sales data with weather patterns and survey demographics
 * identify correlations: temperature vs sales, rainfall effects, weekend lift.
@@ -44,3 +50,11 @@ Dashboard Questions
 
 ### DASHBOARD Analysis
 
+
+1. Direct marketing initiatives and local customer loyalty programs toward Jacksonville and Tampa to boost brand engagement and close the revenue gap with top-tier locations.
+
+2. Launch targeted "Rainy Day" or off-peak promotions and flash discounts to stabilize revenue during periods of lower store foot traffic.
+
+3. Tailor store promotions dynamically: run family-oriented bundles and weekend events, while offering quick-convenience, single-portion, or work-week deals Monday through Friday.
+
+4. Optimize staffing levels, stock inventory, and increase retail catering/event capacity ahead of peak summer demand to maximize revenue potential.
